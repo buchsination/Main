@@ -1,0 +1,45 @@
+body {
+  font-family: Roboto, Arial;
+  align-items: center;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 20px;
+}
+
+.li {
+  font-size: 14px;
+}
+
+.projekte {
+  display: flex;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
+
+.thumb {
+  width: 250px;
+  float:left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quer {
+  width: 200px;
+  padding-top: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.hoch {
+  height: 100px;
+  padding-top: 20px;
+  cursor: pointer;
+}
+
