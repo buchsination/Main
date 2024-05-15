@@ -13,7 +13,7 @@ function generateSite () {
           <img class="${element.img.class}" src="${element.img.src}" alt="">
         </a>
       </div>
-      <div>
+      <div class="code">
         <a href="${element.code}" class="">
           Hier gehts zum Projekt
         </a>

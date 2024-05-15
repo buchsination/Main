@@ -30,16 +30,18 @@ p {
   place-items: center;
 }
 
+.box-image {
+  grid-area: inner-div;
+}
+
 .quer {
   width: 200px;
-  padding-top: 10px;
   margin-left: 20px;
   cursor: pointer;
 }
 
 .hoch {
   height: 100px;
-  padding-top: 20px;
   cursor: pointer;
 }
 
