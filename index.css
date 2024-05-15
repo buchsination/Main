@@ -25,9 +25,9 @@ p {
 .thumb {
   width: 250px;
   float:left;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template: 1fr / 1fr;
+  place-items: center;
 }
 
 .quer {
